@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "serialize_macro",
+    "serialize_macro_traits",
+    "example_project"
+]
